@@ -1,5 +1,6 @@
 {
   "User": {
-    "title": { "string": {} }
+    "id": {"number"}
+    "Firstname": { "string": {} }
   }
 }
